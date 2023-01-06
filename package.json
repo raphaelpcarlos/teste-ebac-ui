@@ -1,0 +1,26 @@
+{
+  "name": "teste-ebac-ui",
+  "version": "1.0.0",
+  "description": "curso EBAC aula Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelpcarlos/teste-ebac-ui.git"
+  },
+  "author": "raphael carlos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raphaelpcarlos/teste-ebac-ui/issues"
+  },
+  "homepage": "https://github.com/raphaelpcarlos/teste-ebac-ui#readme",
+  "dependencies": {
+    "cypress": "^12.3.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
